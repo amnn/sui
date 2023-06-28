@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FileType","Manifest"],"fn":["create_file_metadata","setup_db_state"],"struct":["FileMetadata","ManifestV1"]};

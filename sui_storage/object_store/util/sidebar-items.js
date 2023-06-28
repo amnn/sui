@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["copy_file","copy_files","copy_recursively","delete_files","delete_recursively","get","path_to_filesystem","put"]};

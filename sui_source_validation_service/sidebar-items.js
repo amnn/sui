@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["clone_repositories","initialize","parse_config","repo_name_from_url","serve","verify_package","verify_packages"],"struct":["CloneCommand","Config","Packages"]};
